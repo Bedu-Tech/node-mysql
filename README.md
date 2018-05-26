@@ -1,7 +1,7 @@
 # Node with Mysql
-## With SQL Injection available :v
+## With SQL Injection available :v
 
-### Development
+### Development
 ```bash
 # Start a serve
 $ npm run dev
